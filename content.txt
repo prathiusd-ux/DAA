@@ -1,4 +1,0 @@
-Python is a powerful programming language.
-It is widely used for web development, data analysis, artificial intelligence, and more.
-Learning file handling is an important step in mastering Python.
-This file demonstrates writing text into a file and then reading it back.
